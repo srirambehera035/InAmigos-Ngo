@@ -4,11 +4,6 @@ A responsive, modern awareness webpage for **InAmigos Foundation**, a Section 8 
 
 ---
 
-## 🌐 Live Demo
-
-> Deployed URL will appear here after hosting on Render / GitHub Pages.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -99,36 +94,6 @@ Two-column layout with:
 
 ---
 
-## 🚀 Deployment (Render)
-
-### Prerequisites
-- A [GitHub](https://github.com) account
-- A [Render](https://render.com) account
-
-### Steps
-
-**1. Push to GitHub**
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/inamigos-ngo.git
-git branch -M main
-git push -u origin main
-```
-
-**2. Create Static Site on Render**
-1. Log in to [render.com](https://render.com)
-2. Click **New +** → **Static Site**
-3. Connect GitHub and select your repository
-4. Configure:
-   - **Build Command**: *(leave empty)*
-   - **Publish Directory**: `.`
-5. Click **Create Static Site**
-
-Your site will be live at `https://inamigos-ngo.onrender.com` within a minute.
-
----
 
 ## 📞 Contact Information
 
